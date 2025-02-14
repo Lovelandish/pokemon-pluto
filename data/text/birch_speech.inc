@@ -1,9 +1,8 @@
 gText_Birch_Welcome::
-	.string "Hi! Sorry to keep you waiting!\p"
-	.string "Welcome to the world of POKéMON!\p"
-	.string "My name is BIRCH.\p"
-	.string "But everyone calls me the POKéMON\n"
-	.string "PROFESSOR.\p"
+	.string "Hello, child.\p"
+	.string "Welcome to the world of POKéMON.\p"
+	.string "My name is ARCHER.\n"
+	.string "I am Kanto's POKéMON Professor.\p"
 	.string "$"
 
 gText_Birch_Pokemon::
@@ -14,48 +13,46 @@ gText_Birch_Pokemon::
 gText_Birch_MainSpeech::
 	.string "This world is widely inhabited by\n"
 	.string "creatures known as POKéMON.\p"
-	.string "We humans live alongside POKéMON,\n"
-	.string "at times as friendly playmates, and\l"
-	.string "at times as cooperative workmates.\p"
-	.string "And sometimes, we band together\n"
-	.string "and battle others like us.\p"
-	.string "But despite our closeness, we don't\n"
-	.string "know everything about POKéMON.\p"
-	.string "In fact, there are many, many\n"
-	.string "secrets surrounding POKéMON.\p"
-	.string "To unravel POKéMON mysteries,\n"
-	.string "I've been undertaking research.\l"
-	.string "That's what I do.\p"
+	.string "If you have the money, you too can\n"
+	.string "obtain one.\p"
+	.string "That is what we in the ROCKET\n"
+	.string "organization are here to provide.\p"
+	.string "Our purview extends to more than\n"
+	.string "just POKéMON, of course.\p"
+	.string "Technology, pharmaceuticals,\n"
+	.string "raw materials, information.\p"
+	.string "If it can be bought, ROCKET sells\n"
+	.string "it.\p"
+	.string "That is what we do.\p"
 	.string "$"
 
 gText_Birch_AndYouAre::
-	.string "And you are?$"
+	.string "And you are?\p"
+	.string "$"
 
 gText_Birch_BoyOrGirl::
 	.string "Are you a boy?\n"
 	.string "Or are you a girl?$"
 
 gText_Birch_WhatsYourName::
-	.string "All right.\n"
-	.string "What's your name?$"
+	.string "I see.\n"
+	.string "And what is your name?$"
 
 gText_Birch_SoItsPlayer::
-	.string "So it's {PLAYER}{KUN}?$"
+	.string "Your name is {PLAYER}{KUN}?$"
 
 gText_Birch_YourePlayer::
-	.string "Ah, okay!\p"
-	.string "You're {PLAYER}{KUN} who's moving to my\n"
-	.string "hometown of LITTLEROOT.\l"
-	.string "I get it now!\p"
+	.string "Ah, I see.\p"
+	.string "You're {PLAYER}{KUN} who's moving to\n"
+	.string "VIRIDIAN CITY.\p"
 	.string "$"
 
 gText_Birch_AreYouReady::
-	.string "All right, are you ready?\p"
+	.string "Well then, are you prepared?\p"
 	.string "Your very own adventure is about\n"
 	.string "to unfold.\p"
-	.string "Take courage, and leap into the\n"
-	.string "world of POKéMON where dreams,\l"
-	.string "adventure, and friendships await!\p"
-	.string "Well, I'll be expecting you later.\n"
-	.string "Come see me in my POKéMON LAB.\p"
+	.string "I hope our collaboration will be\n"
+	.string "mutually beneficial.\p"
+	.string "I'll be expecting you later.\n"
+	.string "Come see me in the POKéMON LAB.\p"
 	.string "$"
