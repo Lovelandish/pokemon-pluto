@@ -20,7 +20,7 @@ gText_Birch_MainSpeech::
 	.string "Our purview extends to more than\n"
 	.string "just POKéMON, of course.\p"
 	.string "Technology, pharmaceuticals,\n"
-	.string "raw materials, information.\p"
+	.string "raw materials, information...\p"
 	.string "If it can be bought, ROCKET sells\n"
 	.string "it.\p"
 	.string "That is what we do.\p"
